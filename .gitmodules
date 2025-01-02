@@ -1,0 +1,15 @@
+[submodule "pipeline/energen-plc-generator"]
+	path = pipeline/energen-plc-generator
+	url = git@github.com:NoxelS/energen-plc-generator.git
+[submodule "pipeline/energen-energy"]
+	path = pipeline/energen-energy
+	url = git@github.com:NoxelS/energen-energy.git
+[submodule "pipeline/energen-embedding"]
+	path = pipeline/energen-embedding
+	url = git@github.com:NoxelS/energen-embedding.git
+[submodule "enerplex/enerplex-api-client"]
+	path = enerplex/enerplex-api-client
+	url = git@github.com:NoxelS/enerplex-api-client.git
+[submodule "enerplex/enerplex-api"]
+	path = enerplex/enerplex-api
+	url = git@github.com:NoxelS/enerplex-api.git
